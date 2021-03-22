@@ -1,0 +1,113 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.infinity.avenger.hero.superhero.fighting.game.immortal.shadow.war2k19",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37306511618727",
+      "AdmobBannerAdIds": "ca-app-pub-2375779343507538/5773129992",
+      "AdmobInsterstitialAdIds": "ca-app-pub-2375779343507538/5238298591"
+    },
+    {
+      "BundleId": "com.extreme.productions.highwayway.car.transform.stunts2019",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37808610497157",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375778292877723",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375773423694425"
+    },
+    {
+      "BundleId": "com.ultimate.clash.action.bottle.shooter.expert3d.shooting.game",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37405771405910",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375778316778431",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375776456901851"
+    },
+    {
+      "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37400701021710",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375775210762271",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375770533150668"
+    },
+    {
+      "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37408833315278",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375770166975696",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375771863200747"
+    },
+    {
+      "BundleId": "com.ultimate.clash.action.robot.transform.helicopter.battle.war.air.strike2019",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37205803334969",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375772252949455",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375769944859621"
+    },
+    {
+      "BundleId": "com.infinity.fighting.arena.hero.shadow.turtle.warrior.vs.real.mafia.city.gangsters",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "37601964646802",
+      "AdmobBannerAdIds": "ca-app-pub-16871693818128692/8435845166312108",
+      "AdmobInsterstitialAdIds": "ca-app-pub-16871693818128692/8435842607242166"
+    },
+    {
+      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "isRewardedAdPeriorityMatters" : true,
+      "RewardedAdPeriority" : "Unity",
+      "UnityAdIds": "37016158218752",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375772629487507",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375774653015613",
+      "AdmobRewardedAdIds": "ca-app-pub-4751558687015076/2375772761349442",
+      "AdmobAppId": "ca-app-pub-4751558687015076~2375777290130701"
+    },
+    {
+      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts20192",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "isRewardedAdPeriorityMatters" : true,
+      "RewardedAdPeriority" : "Unity",
+      "UnityAdIds": "37016158218752",
+      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059875638888405",
+      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059872984804903",
+      "AdmobRewardedAdIds": "ca-app-pub-10119762544338416/5059878006424654",
+      "AdmobAppId": "ca-app-pub-10119762544338416~5059878073480051"
+    },
+    {
+      "BundleId": "com.gladiators.testIds",
+      "isStaticAdPeriorityMatters": true,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": true,
+      "BannerAdPeriority": "Unity",
+      "UnityAdIds": "1518267508",
+      "AdmobBannerAdIds": "ca-app-pub-7880512199885088/3940249798964433",
+      "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832"
+    }
+    
+  ]
+}
